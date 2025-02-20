@@ -1,0 +1,40 @@
+Review: I stayed at the Hilton Hotel in New York City last week. The staff were incredibly helpful and welcoming.
+Sentimento: Positive
+Explicação do Sentimento: A avaliação é positiva porque a polaridade é 0.35, indicando um tom positivo na linguagem usada.
+Entidades: Foram encontradas as seguintes entidades nomeadas: Hilton Hotel (PERSON), New York City (GPE).
+
+Review: The view from the Eiffel Tower was breathtaking, but the hotel in Paris was disappointing. The room was tiny and dirty.
+Sentimento: Negative
+Explicação do Sentimento: A avaliação é negativa porque a polaridade é -0.05, indicando um tom negativo na linguagem usada.
+Entidades: Foram encontradas as seguintes entidades nomeadas: Eiffel Tower (ORGANIZATION), Paris (GPE).
+
+Review: I had a great experience at the Marriott in Tokyo. The location was perfect, just a short walk to the train station.
+Sentimento: Positive
+Explicação do Sentimento: A avaliação é positiva porque a polaridade é 0.60, indicando um tom positivo na linguagem usada.
+Entidades: Foram encontradas as seguintes entidades nomeadas: Marriott (ORGANIZATION), Tokyo (GPE).
+
+Review: I booked a stay at the Grand Hyatt in Los Angeles for a business trip. The conference rooms were excellent, but the food was subpar.
+Sentimento: Positive
+Explicação do Sentimento: A avaliação é positiva porque a polaridade é 0.75, indicando um tom positivo na linguagem usada.
+Entidades: Foram encontradas as seguintes entidades nomeadas: Grand Hyatt (FACILITY), Los Angeles (GPE).
+
+Review: Stayed at the Ritz-Carlton in Miami, the beach was right outside, and I had a wonderful time enjoying the sun.
+Sentimento: Positive
+Explicação do Sentimento: A avaliação é positiva porque a polaridade é 0.45, indicando um tom positivo na linguagem usada.
+Entidades: Foram encontradas as seguintes entidades nomeadas: Miami (GPE).
+
+Review: The hotel I stayed at in London was awful, I will never go back to that Holiday Inn. The staff was rude and unhelpful.
+Sentimento: Negative
+Explicação do Sentimento: A avaliação é negativa porque a polaridade é -0.43, indicando um tom negativo na linguagem usada.
+Entidades: Foram encontradas as seguintes entidades nomeadas: London (GPE).
+
+Review: My family had a fantastic stay at Disneyland Hotel in California. The kids loved the theme park, and we were treated like royalty.
+Sentimento: Positive
+Explicação do Sentimento: A avaliação é positiva porque a polaridade é 0.55, indicando um tom positivo na linguagem usada.
+Entidades: Foram encontradas as seguintes entidades nomeadas: Disneyland Hotel (FACILITY), California (GPE).
+
+Review: The room at the Four Seasons in Dubai was luxurious, and the service was top-notch. I would definitely recommend it to anyone.
+Sentimento: Positive
+Explicação do Sentimento: A avaliação é positiva porque a polaridade é 0.50, indicando um tom positivo na linguagem usada.
+Entidades: Foram encontradas as seguintes entidades nomeadas: Dubai (GPE).
+
