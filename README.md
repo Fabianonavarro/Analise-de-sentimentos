@@ -16,12 +16,19 @@ Lógica de Substituição ou Acrescentamento: Se o arquivo de resultados já exi
 
 # Estrutura do Projeto
 ├── inputs/                     # Pasta para armazenar as avaliações de hotéis (arquivos .txt)
+
 │   ├── example_reviews.txt     # Exemplo de avaliações de hotéis
+
 ├── results/                    # Pasta onde as análises serão salvas
+
 │   ├── reviews_analise_en.txt  # Resultado da análise
+
 ├── analyze_sentiments.py       # Script principal de análise de sentimentos
+
 ├── requirements.txt            # Configurarção das bibliotecas usada
+
 ├── readme.md                   # Este arquivo README
+
 
 # Pré-requisitos
 
